@@ -1,0 +1,22 @@
+body {
+    font-size: 10px;
+}
+
+p {
+    font-family: Arial;
+    font-size: 2.0em;
+    font-weight: normal; /* de 100 a 800  */
+    line-height: 1.5;  /* Espaciado */
+    text-align: justify;
+    text-decoration: underline;
+}
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 5em;
+    text-align: center;
+    /* text-decoration: line-through; */
+}
+
+span {
+    font-size: 2.0em;
+}

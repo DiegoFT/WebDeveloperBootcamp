@@ -1,0 +1,8 @@
+p {
+    border: 2px solid blue;
+    width: 50%;
+    padding-left: 40px;
+    /* margin: 20px 40px 500px 100px; /* top right bottom left */
+    /* margin: 0 auto 0 auto; */ /* auto -> centra */
+    margin: 50px 520px; /* top left*/
+}
